@@ -1,0 +1,24 @@
+# Build
+bin/
+obj/
+
+# User-specific
+*.user
+*.vspscc
+*.suo
+
+# IDE (Visual Studio)
+.vs/
+*.vscode/
+
+# Logs
+*.log
+
+# Runtime
+*.db
+*.sqlite
+*.pdb
+
+# Others
+.env
+*.DS_Store
